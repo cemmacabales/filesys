@@ -30,7 +30,7 @@ export function SignupForm({
               <div className="flex size-8 items-center justify-center rounded-md">
                 <GalleryVerticalEnd className="size-6" />
               </div>
-              <span className="sr-only">Acme Inc.</span>
+              <span className="sr-only">obsidian.drive</span>
             </a>
             <h1 className="text-xl font-bold">Welcome to obsidian.drive</h1>
             <FieldDescription>
